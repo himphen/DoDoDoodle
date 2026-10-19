@@ -18,7 +18,7 @@ We welcome questions about the app, purchases, and technical issues.
 
 ## Privacy Policy
 
-Your privacy matters to us. Please read our [Privacy Policy](./privacy.md) for information about how DoDoDoodle handles privacy and data.
+Your privacy matters to us. Please read our [Privacy Policy](./PRIVACY.md) for information about how DoDoDoodle handles privacy and data.
 
 ---
 
