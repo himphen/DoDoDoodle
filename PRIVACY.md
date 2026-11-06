@@ -24,3 +24,12 @@ DoDoDoodle is designed for young children. We do not knowingly collect personal 
 ## Policy Updates
 
 We may update this policy when necessary. Any changes will be reflected in the date above.
+
+## Support
+Need help with DoDoDoodle? Have a question, feedback, or an issue to report?
+
+Contact us at:
+
+Email: dododoodle@himphen.com
+
+We welcome questions about the app, purchases, and technical issues.
